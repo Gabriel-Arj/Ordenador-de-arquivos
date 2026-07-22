@@ -9,9 +9,9 @@ Um script em Python que organiza automaticamente os arquivos da pasta Downloads 
 
 ## Categorias
 
-- 📄 Documentos
-- 🖼️ Imagens
-- 📦 Compactados
+- Documentos
+- Imagens
+- Compactados
 
 ## Tecnologias
 
@@ -19,3 +19,11 @@ Um script em Python que organiza automaticamente os arquivos da pasta Downloads 
 - os
 - shutil
 - time
+
+## O que aprendi
+
+- Manipulação de arquivos com `os`
+- Movimentação de arquivos com `shutil`
+- Estruturas de repetição (`for` e `while`)
+- Criação de funções
+- Organização de projetos em Python
